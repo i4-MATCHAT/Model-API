@@ -5,9 +5,8 @@
 원 모델은 [ultralytics](https://github.com/ultralytics/yolov5 )의 YOLOv5s 모델을 사용하였고, 직접 수집한 데이터를 모델에 학습시켰다. 
 
 ### 2. 데이터 라벨링
-이미지 데이터는 네이버에서 크롤링하여 수집하였다. 이미지 라벨링에는 labelImg를 사용하였다.
-
-![labelImg](https://i.postimg.cc/wvP6QkBv/1.png)
+이미지 데이터는 네이버에서 크롤링하여 수집하였다. 이미지 라벨링에는 makesense를 사용하였다.
+https://www.makesense.ai/ <br>
 
 class는 converse high, nike daybreak로 설정하였다.
 추후 데이터 수와 클래스를 늘려가며 확장할 수 있을 것이라 기대된다.
