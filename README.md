@@ -23,11 +23,11 @@ https://drive.google.com/file/d/1fR5rPbnFA82-beYaUAZIq1oNlQGvSLky/view?usp=shari
 
 ### 📌 학습 진행
 
-다음과 같은 과정으로 커스텀 데이터를 학습시켰다.
+다음과 같은 과정으로 커스텀 모델 학습 진행
 
 #### - yaml 파일 설정
 
-custom_data.yaml 파일을 다음과 같이 설정하였다.
+custom_data.yaml 파일을 다음과 같이 설정
 ```python
 # Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
 path: ../train_data/  # dataset root dir
