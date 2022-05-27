@@ -17,9 +17,9 @@
 
 ### 📌 데이터셋 
 
-cocoval2017 : https://drive.google.com/file/d/1fR5rPbnFA82-beYaUAZIq1oNlQGvSLky/view?usp=sharing <br>
-cocotest2017 : https://drive.google.com/file/d/1fR5rPbnFA82-beYaUAZIq1oNlQGvSLky/view?usp=sharing <br>
-전체 데이터 : https://drive.google.com/file/d/1gVNf6pIyMxyrRfLySIvLiV_XDk7viJb_/view?usp=sharing
+- cocoval2017 : https://drive.google.com/file/d/1fR5rPbnFA82-beYaUAZIq1oNlQGvSLky/view?usp=sharing <br>
+- cocotest2017 : https://drive.google.com/file/d/1fR5rPbnFA82-beYaUAZIq1oNlQGvSLky/view?usp=sharing <br>
+- 전체 데이터 : https://drive.google.com/file/d/1gVNf6pIyMxyrRfLySIvLiV_XDk7viJb_/view?usp=sharing
 
 ### 📌 학습 진행
 
